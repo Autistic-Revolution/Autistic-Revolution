@@ -22,6 +22,7 @@ p + p {
     margin-block-start: 1rem;
 }
 .text-container {
+    border-radius: 10px;
     margin-inline: auto;
     max-width: 80%;
     background-color: rgba(0, 0, 0, 0.50);
