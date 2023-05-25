@@ -32,6 +32,14 @@ h3 {
     font-weight: bold;
     font-size: 1.5rem;
 }
+h4 {
+    color: black;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: -2rem;
+}
 p {
     margin: 0;
 }
@@ -41,9 +49,10 @@ p + p {
 .text-container {
     border-radius: 10px;
     margin-inline: auto;
+    margin-bottom: 3rem;
     max-width: 70%;
     background-color: rgba(0, 0, 0, 0.50);
-    padding: 1.5rem;
+    padding: 2rem;
 }
 .logo {
     padding-top: 10%;
@@ -52,4 +61,20 @@ p + p {
 .logo img {
     max-height: 500px;
     max-width: 100%;
+}
+.facebook {
+    padding: 3%;
+    text-align: center;
+}
+.footer-copyright {
+    color: black;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+.footer-creativecommons {
+    text-align: center;
+    margin-bottom: 3rem;
 }
